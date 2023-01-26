@@ -1,2 +1,2 @@
 # TicTacToe
-Game
+My firs game
